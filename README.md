@@ -15,8 +15,8 @@ repo-add archpkgs.db.tar.xz *.pkg.tar.xz
 
 The sources for the packages are
 
-* [rstudio-desktop-git](https://github.com/JanMarvin/rstudio-archlinuxpkg/tree/master/rstudio)
-* [soci](https://github.com/JanMarvin/rstudio-archlinuxpkg/tree/master/soci)
-* [pandoc-deb](https://github.com/JanMarvin/rstudio-archlinuxpkg/tree/master/pandoc)
+* [rstudio-desktop-git](https://github.com/JanMarvin/rstudio-archlinuxpkg/tree/main/rstudio)
+* [soci](https://github.com/JanMarvin/rstudio-archlinuxpkg/tree/main/soci)
+* [pandoc-deb](https://github.com/JanMarvin/rstudio-archlinuxpkg/tree/main/pandoc)
 * [v8-r](https://github.com/JanMarvin/v8-R)
 
